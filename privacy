@@ -1,0 +1,213 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PookieBot Privacy Policy</title>
+    <style>
+        body {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.7;
+            color: #333;
+            background: #fff;
+        }
+
+        h1 {
+            color: #222;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #222;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        .updated {
+            color: #666;
+            margin-bottom: 25px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>PookieBot Privacy Policy</h1>
+    <p class="updated"><strong>Last Updated:</strong> June 2026</p>
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        PookieBot (displayed within the FergFam Discord server as "SnowyBot")
+        is a private community engagement bot operated exclusively for the
+        FergFam Discord community.
+    </p>
+
+    <p>
+        This Privacy Policy explains what information PookieBot processes,
+        how that information is used, and how it is protected.
+    </p>
+
+    <p>
+        PookieBot is not publicly distributed and is only used within the
+        FergFam Discord server for community events, seasonal activities,
+        giveaways, and other engagement features.
+    </p>
+
+    <h2>2. Information We Process</h2>
+
+    <p>
+        To provide its functionality, PookieBot may process and store the
+        following Discord-related information:
+    </p>
+
+    <ul>
+        <li>User IDs</li>
+        <li>Server (Guild) IDs</li>
+        <li>Channel IDs</li>
+        <li>Role IDs</li>
+        <li>Nicknames and display names</li>
+        <li>Event participation information</li>
+        <li>Voting and event statistics</li>
+        <li>Temporary cooldown information</li>
+        <li>Temporary eligibility and participation status</li>
+        <li>Temporary nickname restoration data</li>
+    </ul>
+
+    <p>
+        PookieBot does not collect real names, email addresses, passwords,
+        payment information, or any information outside of Discord.
+    </p>
+
+    <h2>3. Message Content</h2>
+
+    <p>
+        PookieBot uses Discord's Message Content Intent solely to identify
+        recently active users in designated event channels.
+    </p>
+
+    <p>
+        Message content is not permanently stored, sold, shared, analyzed
+        for advertising, or used to create user profiles.
+    </p>
+
+    <p>
+        The bot only uses message activity to determine eligibility for
+        community event features.
+    </p>
+
+    <h2>4. How Information Is Used</h2>
+
+    <p>
+        Information processed by PookieBot is used exclusively to:
+    </p>
+
+    <ul>
+        <li>Operate community events and activities</li>
+        <li>Create and manage event voting systems</li>
+        <li>Assign and remove temporary event roles</li>
+        <li>Track event participation</li>
+        <li>Maintain event-related statistics</li>
+        <li>Apply and restore temporary event nicknames</li>
+        <li>Prevent abuse through cooldowns and participation controls</li>
+        <li>Ensure event systems function correctly</li>
+    </ul>
+
+    <h2>5. Data Storage</h2>
+
+    <p>
+        PookieBot stores only the minimum amount of information necessary
+        for its features to operate.
+    </p>
+
+    <p>
+        Data may be stored in local databases maintained by the bot operators
+        for purposes such as:
+    </p>
+
+    <ul>
+        <li>Event participation tracking</li>
+        <li>Temporary role management</li>
+        <li>Cooldown management</li>
+        <li>Nickname restoration</li>
+        <li>Event statistics</li>
+    </ul>
+
+    <h2>6. Data Sharing</h2>
+
+    <p>
+        PookieBot does not sell, rent, trade, or share user information
+        with third parties.
+    </p>
+
+    <p>
+        Information processed by the bot is used solely for operating the
+        bot's features within the FergFam community.
+    </p>
+
+    <h2>7. Data Retention</h2>
+
+    <p>
+        Temporary event data is retained only as long as necessary for the
+        associated feature.
+    </p>
+
+    <p>
+        Some event statistics may be retained for community leaderboards,
+        historical event records, or participation tracking.
+    </p>
+
+    <p>
+        Users may request information regarding data associated with their
+        Discord account by contacting the bot owner (_big_tree).
+    </p>
+
+    <h2>8. Security</h2>
+
+    <p>
+        Reasonable measures are taken to protect stored information and
+        restrict access to authorized bot operators.
+    </p>
+
+    <p>
+        Efforts are made to minimize data collection and limit access to
+        stored information.
+    </p>
+
+    <h2>9. Changes to This Policy</h2>
+
+    <p>
+        This Privacy Policy may be updated from time to time to reflect
+        changes to the bot's functionality or operational requirements.
+    </p>
+
+    <p>
+        Any updates will be reflected by revising the "Last Updated" date
+        at the top of this document.
+    </p>
+
+    <h2>10. Contact</h2>
+
+    <p>
+        For questions regarding this Privacy Policy or PookieBot's data
+        practices, please contact the bot owner (_big_tree) on Discord.
+    </p>
+
+    <h2>11. Consent</h2>
+
+    <p>
+        By interacting with PookieBot within the FergFam Discord server,
+        users acknowledge and consent to the processing of information
+        described in this Privacy Policy.
+    </p>
+
+</body>
+</html>
+```
